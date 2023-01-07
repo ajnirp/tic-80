@@ -1,6 +1,9 @@
 ## Tiny Code Christmas
 https://tcc.lovebyte.party/
 
+### Snow
+![snow](https://user-images.githubusercontent.com/1688456/211145819-3ea4a8ef-b22a-4c2b-af31-be830b1fe5e5.gif)
+
 ### Plasma circles
 ![plasma_circles](https://user-images.githubusercontent.com/1688456/211145778-ca431f6f-93a9-4afe-864a-4f5e59927493.gif)
 
