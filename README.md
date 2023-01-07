@@ -1,8 +1,9 @@
 # About
 
-TIC-80 carts I wrote
+TIC-80 carts I wrote. Mostly Lua
 
 https://tic80.com/
+https://www.lua.org/
 
 ## fun
 
