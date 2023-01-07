@@ -1,6 +1,6 @@
 # About
 
-TIC-80 carts I wrote for fun and play
+TIC-80 carts I wrote
 
 https://tic80.com/
 
