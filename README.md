@@ -1,6 +1,6 @@
 # About
 
-TIC-80 carts I wrote. Mostly Lua
+TIC-80 carts I wrote. Mostly Lua. Screenshots taken with F8. GIFs recorded with F9 (to start and stop).
 
 https://tic80.com/
 https://www.lua.org/
